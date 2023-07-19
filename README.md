@@ -1,1 +1,1 @@
-# tuned_mass_damper
+Built a tuned mass damper as a part of the course curriculum of INSTR F343 - Industrial Instrumentation and Control. Demonstrated how a tuned mass damper works in skyscrapers using a simple tower model made of wood. Calibrated a tuned mass damper to match the natural frequency of a shaking building and hence damp the vibrations, keeping the building safe. Built using Arduino Uno, Accelerometer and MATLAB.
